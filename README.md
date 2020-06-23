@@ -1,4 +1,4 @@
-lono.github.com
+lono.github.io
 ===============
 
 something will be posted here
